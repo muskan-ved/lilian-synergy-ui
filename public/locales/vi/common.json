@@ -1,0 +1,22 @@
+{
+      "contact": {
+        "name": "Tên",
+        "namePlaceholder": "Tên ở đây",
+        "email": "Địa chỉ email",
+        "emailPlaceholder": "Nhập địa chỉ",
+        "phone": "Số điện thoại",
+        "phonePlaceholder": "Số điện thoại",
+        "budget": "Ngân sách",
+        "dropdownLabel": "-chọn-",
+        "typeOfService": "Loại dịch vụ",
+        "objective": "Mục tiêu",
+        "message1": "Bạn có câu hỏi cụ thể nào hoặc cần thêm thông tin không?",
+        "message2": "Sử dụng mẫu dưới đây để gửi tin nhắn cho chúng tôi và một thành viên trong nhóm của chúng tôi sẽ liên hệ lại với bạn càng sớm càng tốt.",
+        "messagePlaceholder": "Gửi tin nhắn cho chúng tôi...",
+        "conditionText1": "Tôi đồng ý với việc thu thập và sử dụng dữ liệu cá nhân của tôi theo",
+        "conditionText2": "và",
+        "privacy": "PDPA",
+        "terms": "Điều khoản sử dụng.",
+        "submit": "Bắt đầu dự án"
+      }
+    }

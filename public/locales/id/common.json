@@ -1,0 +1,22 @@
+{
+  "contact": {
+    "name": "Nama",
+    "namePlaceholder": "Nama di sini",
+    "email": "Alamat email",
+    "emailPlaceholder": "Masukkan alamat",
+    "phone": "Nomor telepon",
+    "phonePlaceholder": "Nomor telepon",
+    "budget": "Anggaran",
+    "dropdownLabel": "-memilih-",
+    "typeOfService": "Jenis Layanan",
+    "objective": "Tujuan",
+    "message1": "Apakah Anda memiliki pertanyaan spesifik atau memerlukan rincian lebih lanjut?",
+    "message2": "Gunakan formulir di bawah ini untuk mengirimkan pesan kepada kami, dan anggota tim kami akan segera menghubungi Anda.",
+    "messagePlaceholder": "Kirimkan Kami Pesan...",
+    "conditionText1": "Saya setuju dengan pengumpulan dan penggunaan data pribadi saya sesuai dengan",
+    "conditionText2": "dan situs web",
+    "privacy": "PDPA",
+    "terms": "Ketentuan Penggunaan.",
+    "submit": "Mulai proyek"
+  }
+}

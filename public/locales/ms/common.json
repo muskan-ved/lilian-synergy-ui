@@ -1,0 +1,22 @@
+{
+      "contact": {
+        "name": "Nama",
+        "namePlaceholder": "Nama di sini",
+        "email": "Alamat emel",
+        "emailPlaceholder": "Masukkan alamat",
+        "phone": "Nombor telefon",
+        "phonePlaceholder": "Nombor telefon",
+        "budget": "Bajet",
+        "dropdownLabel": "-pilih-",
+        "typeOfService": "Jenis Perkhidmatan",
+        "objective": "Objektif",
+        "message1": "Adakah anda mempunyai soalan khusus atau memerlukan maklumat lanjut?",
+        "message2": "Gunakan borang di bawah untuk menghantar mesej kepada kami, dan ahli pasukan kami akan menghubungi anda secepat mungkin.",
+        "messagePlaceholder": "Hantar Mesej Kepada Kami...",
+        "conditionText1": "Saya bersetuju dengan pengumpulan dan penggunaan data peribadi saya mengikut",
+        "conditionText2": "dan",
+        "privacy": "PDPA",
+        "terms": "Terma Penggunaan.",
+        "submit": "Mula Projek"
+      }
+    }

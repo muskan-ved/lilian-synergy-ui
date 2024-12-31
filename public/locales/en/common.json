@@ -1,0 +1,54 @@
+{
+  "contact": {
+    "name": "Name",
+    "namePlaceholder": "Name here",
+    "email": "Email address",
+    "emailPlaceholder": "Enter address",
+    "phone": "Phone number",
+    "phonePlaceholder": "Phone number",
+    "budget": "Budget",
+    "dropdownLabel": "-choose-",
+    "typeOfService": "Type of Service",
+    "objective": "Objective",
+    "message1": "Do you have a specific question or require more details?",
+    "message2": "Use the form below to send us a message, and a member of our team will get back to you as soon as possible.",
+    "messagePlaceholder": "Send Us a Message...",
+    "conditionText1": "I agree to the collection and use of my personal data in accordance with the",
+    "conditionText2": "and the website's",
+    "privacy": "PDPA",
+    "terms": "Terms of Use.",
+    "submit": "Start a project"
+  },
+  "services": {
+    "serviceOption": [
+      "Branding",
+      "Creative Content",
+      "Content Strategy",
+      "Media Services",
+      "Commerce & eCommerce",
+      "Customer Relationship Management",
+      "Partnership",
+      "Events & Activations",
+      "Data Analytics",
+      "Tech"
+    ]
+  },
+  "objective": {
+    "ObjectiveOption": [
+      "Awareness",
+      "Consideration",
+      "Engagement",
+      "Conversion",
+      "Loyalty",
+      "Advocacy"
+    ]
+  },
+  "budget": {
+    "BudgetOption": [
+      "< RM5,000 to RM10,000",
+      "RM 10,000 to RM 15,000",
+      "RM 15,000 to RM 20,000",
+      "> RM 20,000"
+    ]
+  }
+}

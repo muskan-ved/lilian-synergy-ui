@@ -1,0 +1,66 @@
+.banner {
+    background: #f8f8f8;
+    color: #333;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .card {
+    /* max-width: 500px; */
+    margin: 0 auto;
+    padding: 20px;
+    /* background: white; */
+    /* border-radius: 8px; */
+    /* color: green; */
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+  }
+  
+  .buttonWrapper{
+    padding:20px
+  }
+  
+  .label {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: var(--textDark);
+    font-weight: 500;
+  }
+  
+  .description {
+    font-size: 0.9em;
+    margin-bottom: 20px;
+    color: var(--textGrey);
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .acceptButton,
+  .declineButton {
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 0.9em;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .declineButton {
+    background-color: #6c757d;
+  }
+  
+  .acceptButton:hover,
+  .declineButton:hover {
+    opacity: 0.9;
+  }
+
+  .cookieConsentContainer{
+    background-color: red;
+  }
+  

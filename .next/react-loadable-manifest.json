@@ -1,0 +1,26 @@
+{
+  "components/Layout/Index.tsx -> ./Footer": {
+    "id": "components/Layout/Index.tsx -> ./Footer",
+    "files": [
+      "static/chunks/src_components_Layout_Footer_tsx.js"
+    ]
+  },
+  "components/Layout/Index.tsx -> ./Navbar": {
+    "id": "components/Layout/Index.tsx -> ./Navbar",
+    "files": [
+      "static/chunks/src_components_Layout_Navbar_tsx.js"
+    ]
+  },
+  "pages/_app.tsx -> @/components/Common/CustomCursor": {
+    "id": "pages/_app.tsx -> @/components/Common/CustomCursor",
+    "files": [
+      "static/chunks/src_components_Common_CustomCursor_tsx.js"
+    ]
+  },
+  "pages/_app.tsx -> @/components/Common/Loader": {
+    "id": "pages/_app.tsx -> @/components/Common/Loader",
+    "files": [
+      "static/chunks/src_components_Common_Loader_tsx.js"
+    ]
+  }
+}

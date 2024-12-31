@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/bmap": "pages/bmap.js",
+  "/api/bmap-method": "pages/api/bmap-method.js",
+  "/api/website-configuration": "pages/api/website-configuration.js"
+}
